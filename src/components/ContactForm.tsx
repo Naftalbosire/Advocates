@@ -141,8 +141,8 @@ export default function ContactForm({ initialPracticeId, onMessageSubmitted }: C
                   <Phone className="text-[#C9A84C] w-4 h-4 flex-shrink-0 mt-0.5" />
                   <div className="text-xs">
                     <p className="font-bold font-sans text-white uppercase tracking-wider text-[10px]">Advocacy Phone Hotlines</p>
-                    <p className="text-white/70 mt-1">Primary: +254 (0) 712 345 678</p>
-                    <p className="text-white/70 mt-0.5">Mobile Registry: +254 (0) 722 987 654</p>
+                    <p className="text-white/70 mt-1">Primary: +254 (0) 728 541 207</p>
+                    <p className="text-white/70 mt-0.5">Mobile Registry: +254 (0) 728 541 207</p>
                   </div>
                 </div>
 
